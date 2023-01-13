@@ -37,5 +37,3 @@ searchBttn.addEventListener("click", () =>{
 })
 
 
-//Doubt: CHildNode list etc. evaluated after the entire code????
-// doubt: when there are no children why is the HTMLcollection/Nodelist length = 1?
